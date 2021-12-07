@@ -1,5 +1,6 @@
 /**
  * @description 下载文件
+ * @method downloadFile
  * @param {string,string} 文件路径 文件名 
  */
 function downloadFile (dataUrl, filename) {
